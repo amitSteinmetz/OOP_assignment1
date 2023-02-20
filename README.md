@@ -20,3 +20,12 @@ Not only an object, but also its references was explored in our "Tests" file.
 
 Practically, GroupAdmin object includes the state stock - **UndoableStringBuilder** - and a list of
 costumers - **Members** - that will be updated when the state changes.
+
+<br>
+<br>
+
+In order to find the files that we created ourselves, go to:
+
+**GroupAdmin, ConcreteMember**:  src -> main
+
+**Tests, GroupAdminTest, ConcreteMemberTest**:  src -> test
